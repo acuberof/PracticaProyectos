@@ -7,3 +7,11 @@ A
 B
 
 	Hemos descargado el proyecto mediante el comando indicado y he navegado en la estructura de archivos tanto mediante la plataforma web de GitHub como la propia estructura de ficheros local creada por Git.
+
+C
+	1.- No ha sido necesario crear una cuenta en GitHub debido a que ya poseía una anteriormente: jmherruzo
+	2.- Ha sido creado el Proyecto: 'PracticaProyectos' en la siguiente URL: https://github.com/acuberof/PracticaProyectos
+	3.- Todos los miembros del grupo han sido añadidos como colaboradores al proyecto.
+	4.- En primer lugar se ha realizado una copia en local del repositorio mediante el comando:
+		git clone https://jmherruzo@github.com/acuberof/PracticaProyectos
+	Después de esto, se han creado archivos y se han modificado estos varias veces. Posteriormente se ha añadido todo al servidor mediante los comandos indicados en la práctica.
