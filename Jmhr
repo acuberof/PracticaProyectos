@@ -3,3 +3,7 @@ A
 	Posteriormente, se ha aplicado el parche al archivo modificado mediante el comando:
 		patch > parche.patch
 	Obteniendo como resultado el fichero original y una copia de seguridad del modificado antes de aplicar el parche.  
+
+B
+
+	Hemos descargado el proyecto mediante el comando indicado y he navegado en la estructura de archivos tanto mediante la plataforma web de GitHub como la propia estructura de ficheros local creada por Git.
