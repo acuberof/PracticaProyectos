@@ -17,3 +17,19 @@ C
 	Después de esto, se han creado archivos y se han modificado estos varias veces. Posteriormente se ha añadido todo al servidor mediante los comandos indicados en la práctica.
 	
 	Se ha inducido un conflicto mediante la modificación de 2 miembros del grupo de la misma línea de un mismo archivo. Se ha solucionado sin problemas modificando el archivo y dejando una de las dos versiones diferentes.
+
+	5.- 
+	 En primer lugar se ha añadido una rama mediante el comando:
+		git branch rama
+	La rama ha sido seleccionada con el comando:
+		git checkout rama
+	Una vez selecionada, se han modificado ficheros y se han añadido a la rama creada con los comandos usados normalmente añadiendo 'origin rama' al final. Ejemplo:
+		git push origin rama
+	Para hacer modificaciones en el principal, se ha vuelto a seleccionar este mediante el comando:
+		git checkout master
+	Se han modificado ficheros y subido al servidor al igual que en el punto 4.
+
+	Finalmente, para actualizar la rama con las modificaciones del principal se han seguido los siguientes pasos:
+		1.- Se ha vuelto a seleccionar la rama con: git checkout rama
+		2.- Se han añadido los datos con el comando: git merge origin/master
+		3.- Y finalmente se han añadido al servidor con el comando git push origin master.
