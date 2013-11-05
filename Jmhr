@@ -1,0 +1,5 @@
+A
+	Se ha creado un fichero con texto de prueba, el cual ha sido enviado al compañero. Una vez modificado se ha enviado de vuelta, comprobado las modificaciones con el comando diff y generado el archivo 'patch'.
+	Posteriormente, se ha aplicado el parche al archivo modificado mediante el comando:
+		patch > parche.patch
+	Obteniendo como resultado el fichero original y una copia de seguridad del modificado antes de aplicar el parche.  
