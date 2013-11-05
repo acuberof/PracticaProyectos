@@ -15,3 +15,5 @@ C
 	4.- En primer lugar se ha realizado una copia en local del repositorio mediante el comando:
 		git clone https://jmherruzo@github.com/acuberof/PracticaProyectos
 	Después de esto, se han creado archivos y se han modificado estos varias veces. Posteriormente se ha añadido todo al servidor mediante los comandos indicados en la práctica.
+	
+	Se ha inducido un conflicto mediante la modificación de 2 miembros del grupo de la misma línea de un mismo archivo. Se ha solucionado sin problemas modificando el archivo y dejando una de las dos versiones diferentes.
