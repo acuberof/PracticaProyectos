@@ -1,0 +1,19 @@
+A
+	Se ha creado un fichero con texto de prueba, el cual ha sido enviado al compañero. Una vez modificado se ha enviado de vuelta, comprobado las modificaciones con el comando diff y generado el archivo 'patch'.
+	Posteriormente, se ha aplicado el parche al archivo modificado mediante el comando:
+		patch > parche.patch
+	Obteniendo como resultado el fichero original y una copia de seguridad del modificado antes de aplicar el parche.  
+
+B
+
+	Hemos descargado el proyecto mediante el comando indicado y he navegado en la estructura de archivos tanto mediante la plataforma web de GitHub como la propia estructura de ficheros local creada por Git.
+
+C
+	1.- No ha sido necesario crear una cuenta en GitHub debido a que ya poseía una anteriormente: jmherruzo
+	2.- Ha sido creado el Proyecto: 'PracticaProyectos' en la siguiente URL: https://github.com/acuberof/PracticaProyectos
+	3.- Todos los miembros del grupo han sido añadidos como colaboradores al proyecto.
+	4.- En primer lugar se ha realizado una copia en local del repositorio mediante el comando:
+		git clone https://jmherruzo@github.com/acuberof/PracticaProyectos
+	Después de esto, se han creado archivos y se han modificado estos varias veces. Posteriormente se ha añadido todo al servidor mediante los comandos indicados en la práctica.
+	
+	Se ha inducido un conflicto mediante la modificación de 2 miembros del grupo de la misma línea de un mismo archivo. Se ha solucionado sin problemas modificando el archivo y dejando una de las dos versiones diferentes.
